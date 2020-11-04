@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Colors from  SplashActivity  -->
+    <color name="colorPrimary">#7F2A68</color>
+    <color name="colorPrimaryDark">#5F1049</color>
+    <color name="colorAccent">#D081AB</color>
+
+<!-- Oders Colors   -->
+    <color name="white">#F0F6FA</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#4D4D4D</color>
+    <color name="ruby">#800000</color>
+</resources>
